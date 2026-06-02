@@ -1,0 +1,6 @@
+{
+  "name": "Na Arga",
+  "description": "Futuristic social video platform featuring interactive mockups with custom cyber neon design, glassmorphism, and smooth UX animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
